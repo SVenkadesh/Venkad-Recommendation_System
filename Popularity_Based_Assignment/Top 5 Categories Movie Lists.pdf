@@ -1,0 +1,91 @@
+movie_id,movie title,watch_count,category
+50,Star Wars (1977),583,Action
+258,Contact (1997),509,Action
+100,Fargo (1996),508,Action
+181,Return of the Jedi (1983),507,Action
+294,Liar Liar (1997),485,Action
+50,Star Wars (1977),583,Adventure
+258,Contact (1997),509,Adventure
+100,Fargo (1996),508,Adventure
+181,Return of the Jedi (1983),507,Adventure
+294,Liar Liar (1997),485,Adventure
+50,Star Wars (1977),583,Animation
+258,Contact (1997),509,Animation
+100,Fargo (1996),508,Animation
+181,Return of the Jedi (1983),507,Animation
+294,Liar Liar (1997),485,Animation
+50,Star Wars (1977),583,Children's
+258,Contact (1997),509,Children's
+100,Fargo (1996),508,Children's
+181,Return of the Jedi (1983),507,Children's
+294,Liar Liar (1997),485,Children's
+50,Star Wars (1977),583,Comedy
+258,Contact (1997),509,Comedy
+100,Fargo (1996),508,Comedy
+181,Return of the Jedi (1983),507,Comedy
+294,Liar Liar (1997),485,Comedy
+50,Star Wars (1977),583,Crime
+258,Contact (1997),509,Crime
+100,Fargo (1996),508,Crime
+181,Return of the Jedi (1983),507,Crime
+294,Liar Liar (1997),485,Crime
+50,Star Wars (1977),583,Documentary
+258,Contact (1997),509,Documentary
+100,Fargo (1996),508,Documentary
+181,Return of the Jedi (1983),507,Documentary
+294,Liar Liar (1997),485,Documentary
+50,Star Wars (1977),583,Drama
+258,Contact (1997),509,Drama
+100,Fargo (1996),508,Drama
+181,Return of the Jedi (1983),507,Drama
+294,Liar Liar (1997),485,Drama
+50,Star Wars (1977),583,Fantasy
+258,Contact (1997),509,Fantasy
+100,Fargo (1996),508,Fantasy
+181,Return of the Jedi (1983),507,Fantasy
+294,Liar Liar (1997),485,Fantasy
+50,Star Wars (1977),583,Film-Noir
+258,Contact (1997),509,Film-Noir
+100,Fargo (1996),508,Film-Noir
+181,Return of the Jedi (1983),507,Film-Noir
+294,Liar Liar (1997),485,Film-Noir
+50,Star Wars (1977),583,Horror
+258,Contact (1997),509,Horror
+100,Fargo (1996),508,Horror
+181,Return of the Jedi (1983),507,Horror
+294,Liar Liar (1997),485,Horror
+50,Star Wars (1977),583,Musical
+258,Contact (1997),509,Musical
+100,Fargo (1996),508,Musical
+181,Return of the Jedi (1983),507,Musical
+294,Liar Liar (1997),485,Musical
+50,Star Wars (1977),583,Mystery
+258,Contact (1997),509,Mystery
+100,Fargo (1996),508,Mystery
+181,Return of the Jedi (1983),507,Mystery
+294,Liar Liar (1997),485,Mystery
+50,Star Wars (1977),583,Romance
+258,Contact (1997),509,Romance
+100,Fargo (1996),508,Romance
+181,Return of the Jedi (1983),507,Romance
+294,Liar Liar (1997),485,Romance
+50,Star Wars (1977),583,Sci-Fi
+258,Contact (1997),509,Sci-Fi
+100,Fargo (1996),508,Sci-Fi
+181,Return of the Jedi (1983),507,Sci-Fi
+294,Liar Liar (1997),485,Sci-Fi
+50,Star Wars (1977),583,Thriller
+258,Contact (1997),509,Thriller
+100,Fargo (1996),508,Thriller
+181,Return of the Jedi (1983),507,Thriller
+294,Liar Liar (1997),485,Thriller
+50,Star Wars (1977),583,War
+258,Contact (1997),509,War
+100,Fargo (1996),508,War
+181,Return of the Jedi (1983),507,War
+294,Liar Liar (1997),485,War
+50,Star Wars (1977),583,Western
+258,Contact (1997),509,Western
+100,Fargo (1996),508,Western
+181,Return of the Jedi (1983),507,Western
+294,Liar Liar (1997),485,Western
